@@ -1,0 +1,18 @@
+name: ReligicMain
+version: '${project.version}'
+main: org.religic.religicmain.ReligicMain
+api-version: '1.19'
+commands:
+  yar2:
+    description: This is a demo command.
+    usage: /<command>
+  yar10:
+    description: This is command
+    usage:  /<command>
+  configset:
+    description: This is config settings
+    usage: Ты  не можешь это испльзовать.
+  firebeam:
+    description: ОГОНЬ!!!
+    usage: Уникальная сила одного из архонтов)
+

@@ -1,0 +1,15 @@
+name: ReligicMain
+version: '1.0-SNAPSHOT'
+main: org.religic.religicmain.ReligicMain
+api-version: '1.19'
+commands:
+  yar2:
+    description: This is a demo command.
+    usage: /<command>
+  yar10:
+    description: This is command
+    usage:  /<command>
+  configset:
+    description: This is config settings
+    usage: Ты  не можешь это испльзовать.
+
